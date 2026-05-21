@@ -1,0 +1,13 @@
+com\mycompany\atividade\gemini1\adocao\AdocaoService.class
+com\mycompany\atividade\gemini1\adocao\AdocaoRepositoryBD.class
+com\mycompany\atividade\gemini1\notificacao\NotificacaoEmail.class
+com\mycompany\atividade\gemini1\adocao\Adocao.class
+com\mycompany\atividade\gemini1\Animal.class
+com\mycompany\atividade\gemini1\taxas\CalculaTaxaService.class
+com\mycompany\atividade\gemini1\taxas\TipoTaxaGatoImpl.class
+com\mycompany\atividade\gemini1\taxas\ITipoTaxa.class
+com\mycompany\atividade\gemini1\notificacao\INotificacao.class
+com\mycompany\atividade\gemini1\Adotante.class
+com\mycompany\atividade\gemini1\taxas\TipoTaxaCachorroImpl.class
+com\mycompany\atividade\gemini1\AtividadeGemini1.class
+com\mycompany\atividade\gemini1\adocao\IAdocaoRepository.class
